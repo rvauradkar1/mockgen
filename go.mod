@@ -1,4 +1,4 @@
-module github.com/mockgen
+module github.com/rvauradkar1/mockgen
 
 go 1.18
 
